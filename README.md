@@ -1,2 +1,2 @@
 # classExample
-Hello World!
+Hello World! This is an error.
